@@ -79,7 +79,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -89,12 +89,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRETCUGJ
 
-[SearchPath1]
-Path=K:\Cloud\Altium\New Libs\*.*
-IncludeSubFolders=1
+[Document4]
+DocumentPath=Harvester_PB1_BOOST.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OPQFMNBI
 
-[SearchPath2]
-Path=*.*
+[SearchPath1]
+Path=K:\Cloud\Altium\New Libs\1\CERN_ALTIUM_LIB_july_2014\CernLib\*.*
 IncludeSubFolders=1
 
 [Configuration1]
@@ -870,7 +883,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 MatchParameter1=Comment
 MatchStrictly1=1
