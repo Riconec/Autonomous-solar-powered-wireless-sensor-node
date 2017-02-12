@@ -72,6 +72,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUSTGMWR
 
+[Document3]
+DocumentPath=Harvester_PB1_BOOST.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QRETCUGJ
+
+[SearchPath1]
+Path=K:\Cloud\Altium\New Libs\*.*
+IncludeSubFolders=1
+
+[SearchPath2]
+Path=*.*
+IncludeSubFolders=1
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
